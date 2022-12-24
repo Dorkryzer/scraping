@@ -1,5 +1,5 @@
 from bs4 import BeautifulSoup
-import bs4
+
 import requests
 
 
